@@ -1,4 +1,4 @@
-![Pathfinding Visualization](ruta/a/tu/captura_de_pantalla.png)
+![Pathfinding Visualization](nasa.png)
 # A* Pathfinding Visualization
 
 ## Description
