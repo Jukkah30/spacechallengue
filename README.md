@@ -1,3 +1,4 @@
+![Pathfinding Visualization](ruta/a/tu/captura_de_pantalla.png)
 # A* Pathfinding Visualization
 
 ## Description
@@ -9,12 +10,21 @@ This project implements an A* search algorithm to find optimal paths in a simula
 - Customizable grid size and obstacles
 - Interactive simulation for real-time pathfinding demonstration
 
-## Screenshots
-![Pathfinding Visualization](ruta/a/tu/captura_de_pantalla.png)
+## Technologies Used
+- **Python**: The programming language used for implementation.
+- **NumPy**: For numerical operations and array handling.
+- **Matplotlib**: For graphical visualization of the algorithm.
+
+## Acknowledgments
+- Special thanks to the open-source community for their contributions and support.
+- Inspiration taken from various resources on pathfinding algorithms and robotics.
+
 
 ## Requirements
 Make sure you have Python installed on your machine. Then, install the following libraries:
 
 ```bash
 pip install numpy matplotlib
+
+
 
